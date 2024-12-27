@@ -1,3 +1,5 @@
+// Binary Search algorithm
+
 function buscaBinaria(array, valor) {
     var inicio = 0;
     var fim = array.length - 1;
